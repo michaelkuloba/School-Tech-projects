@@ -1,4 +1,4 @@
- readme# Excel Projects
+ Excel Projects
 
 Practical Excel projects developed through school learning and Coding Club activities.
 
